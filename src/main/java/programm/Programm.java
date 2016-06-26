@@ -10,6 +10,7 @@ import static Equations.QuadrEquation.QuadrEquation;
 
 public class Programm {
     public static void main(String[] args) {
+        System.out.println("Решение квадратного уравнения.");
         while (true){
             Scanner scanner = new Scanner(System.in);
             System.out.println("Введите a=");
